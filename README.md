@@ -1,3 +1,3 @@
 # first-github-
 This is my first git Repositry
-Author - Shahil Goyal
+Author - Shahil Kumar Goyal
